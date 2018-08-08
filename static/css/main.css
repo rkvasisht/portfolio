@@ -1,0 +1,69 @@
+#landing {
+    color: rgba(255, 255, 255, 0.479);
+    padding-top: 75px;
+}
+nav {
+    background-color: #b2dfdb;
+}
+
+
+
+.home {
+    
+    height: 100vh  !important;
+    background-image: url("../images/topBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.projects {
+    background-size: 100%;
+    background-color: lightblue;
+}
+#infoLanding{
+    padding-top: 50px;
+}
+
+.projectCard{
+    width:300px;
+    opacity: 0.5;
+   }
+   
+
+
+.tab{
+    color: #b2ebf2;
+}
+
+.about{
+    background-size: 100%;
+    background-color: lightblue;
+}
+
+body {
+
+    background-color: lightblue;
+}
+
+.resume{
+    height: 100vh  !important;
+}
+
+.contactContainer{
+    padding-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#aboutme{
+    padding-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#landing{
+
+    margin-left: 20%;
+    margin-right: 20%;
+}
