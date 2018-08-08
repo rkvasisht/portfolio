@@ -38,5 +38,5 @@ app.get('/resume', (req, res) => {
 	res.render('resume');
 });
 
-app.listen(port, function() {console.log('Hooked on ' + port)});
+app.listen(process.env.PORT || 3000)
 
